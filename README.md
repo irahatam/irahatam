@@ -2,8 +2,7 @@
 ### Here are some things about me:
 
 - 🔭 I’m currently working on <a href="https://wp.nyu.edu/sonyc/" target=_blank>Sounds of New York City</a> (SONYC), focusing on AQ Monitoring
-- 📚 I study CS, Design & Math at New York University 
-- 👯 Fun fact: I have watched all seasons of The Amazing Race and Survivor at least three times
+- 📚 I study CS & Design at New York University 
 
 
 <!--
