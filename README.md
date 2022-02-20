@@ -1,9 +1,10 @@
 # Hi, I'm Matahari! 👋
 ### Here are some things about me:
 
-- 🔭 I’m currently working on <a href="https://wp.nyu.edu/sonyc/" target=_blank>Sounds of New York City</a> (SONYC), focusing on AQ Monitoring
-- 📚 I study CS & Design at New York University 
-
+- 🌱 I’m currently learning Information Systems/Management of Technology @ NYU Tandon School of Engineering
+- 📫 matahari@nyu.edu
+- 💬 https://www.linkedin.com/in/matahari
+- 🔭 http://matahari.tech
 
 <!--
 **irahatam/irahatam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
