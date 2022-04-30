@@ -1,7 +1,7 @@
 # Hi, I'm Matahari! 👋
 ### Here are some things about me:
 
-- 🌱 I’m currently studying Information Systems/Management of Technology @ NYU Tandon School of Engineering
+- 🌱 I’m currently in grad school studying Information Systems @ NYU Tandon School of Engineering
 - 📫 matahari@nyu.edu
 - 💬 https://www.linkedin.com/in/matahari
 - 🔭 http://matahari.tech
