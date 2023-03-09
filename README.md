@@ -1,10 +1,10 @@
 # Hi, I'm Matahari! 👋
 ### Here are some things about me:
 
-🌱 Master of Science candidate @ NYU Tandon School of Engineering
-📫 matahari@nyu.edu
-💬 https://www.linkedin.com/in/matahari
-🔭 http://irahatam.github.io
+🌱 Master of Science candidate @ NYU Tandon School of Engineering <br>
+📫 matahari@nyu.edu <br>
+💬 https://www.linkedin.com/in/matahari <br>
+🔭 http://irahatam.github.io <br>
 
 <!--
 **irahatam/irahatam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
